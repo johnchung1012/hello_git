@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-Hello X & Y!
->>>>>>> Branch-X
+Hello X & Y & Z!
